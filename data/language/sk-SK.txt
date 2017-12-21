@@ -37,13 +37,13 @@ STR_0030    :Stánok s jedlom
 STR_0031    :Unknown Stall (1D)
 STR_0032    :Stánok s nápojmi
 STR_0033    :Unknown Stall (1F)
-STR_0034    :Shop
+STR_0034    :Obchod
 STR_0035    :Carousel
 STR_0036    :Unknown Stall (22)
 STR_0037    :Information Kiosk
-STR_0038    :Restroom
+STR_0038    :Toalety
 STR_0039    :Ruské koleso
-STR_0040    :Motion Simulator
+STR_0040    :Simulátor
 STR_0041    :3D Kino
 STR_0042    :Top Spin
 STR_0043    :Space Rings
@@ -53,23 +53,23 @@ STR_0046    :Vertical Drop Roller Coaster
 STR_0047    :Bankomat
 STR_0048    :Twist
 STR_0049    :Haunted House
-STR_0050    :First Aid Room
-STR_0051    :Circus Show
-STR_0052    :Tunnel Of Horror
+STR_0050    :Prvá pomoc
+STR_0051    :Cirkus
+STR_0052    :Tunel hrôzy
 STR_0053    :Steel Twister Roller Coaster
 STR_0054    :Wooden Roller Coaster
 STR_0055    :Side-Friction Roller Coaster
-STR_0056    :Wild Mouse
+STR_0056    :Myš
 STR_0057    :Multi-Dimension Roller Coaster
-STR_0058    :Unknown Ride (38)
+STR_0058    :Neznáma atrakcia (38)
 STR_0059    :Flying Roller Coaster
-STR_0060    :Unknown Ride (3A)
+STR_0060    :Neznáma atrakcia (3A)
 STR_0061    :Virginia Reel
 STR_0062    :Splash Boats
 STR_0063    :Mini Helicopters
 STR_0064    :Lay-down Roller Coaster
 STR_0065    :Suspended Monorail
-STR_0066    :Unknown Ride (40)
+STR_0066    :Neznáma atrakcia (40)
 STR_0067    :Reverser Roller Coaster
 STR_0068    :Heartline Twister Coaster
 STR_0069    :Minigolf
@@ -85,16 +85,16 @@ STR_0078    :Inverted Hairpin Coaster
 STR_0079    :Magic Carpet
 STR_0080    :Submarine Ride
 STR_0081    :River Rafts
-STR_0082    :Unknown Ride (50)
+STR_0082    :Neznáma atrakcia (50)
 STR_0083    :Enterprise
-STR_0084    :Unknown Ride (52)
-STR_0085    :Unknown Ride (53)
-STR_0086    :Unknown Ride (54)
-STR_0087    :Unknown Ride (55)
+STR_0084    :Neznáma atrakcia (52)
+STR_0085    :Neznáma atrakcia (53)
+STR_0086    :Neznáma atrakcia (54)
+STR_0087    :Neznáma atrakcia (55)
 STR_0088    :Inverted Impulse Coaster
 STR_0089    :Mini horská dráha
 STR_0090    :Mine Ride
-STR_0091    :Unknown Ride (59)
+STR_0091    :Neznáma atrakcia (59)
 STR_0092    :LIM Launched Roller Coaster
 STR_0093    :
 STR_0094    :
@@ -871,8 +871,8 @@ STR_1037    :Load Landscape
 STR_1038    :Convert saved game to scenario
 STR_1039    :Install new track design
 STR_1040    :Uložiť hru
-STR_1041    :Save Scenario
-STR_1042    :Save Landscape
+STR_1041    :Uložiť scenár
+STR_1042    :Uložiť krajinu
 STR_1043    :OpenRCT2 Saved Game
 STR_1044    :OpenRCT2 Scenario File
 STR_1045    :OpenRCT2 Landscape File
@@ -902,8 +902,8 @@ STR_1068    :Rotating lift mode
 STR_1069    :Station to station mode
 STR_1070    :Single ride per admission
 STR_1071    :Unlimited rides per admission
-STR_1072    :Maze mode
-STR_1073    :Race mode
+STR_1072    :Mód bludisko
+STR_1073    :Mód preteky
 STR_1074    :Bumper-car mode
 STR_1075    :Swing mode
 STR_1076    :Shop stall mode
@@ -921,7 +921,7 @@ STR_1087    :3D film: {ENDQUOTES}Space raiders{ENDQUOTES}
 STR_1088    :Intense mode
 STR_1089    :Berserk mode
 STR_1090    :Haunted house mode
-STR_1091    :Circus show mode
+STR_1091    :Cirkusová šou
 STR_1092    :Downward launch
 STR_1093    :Crooked house mode
 STR_1094    :Freefall drop mode
@@ -935,31 +935,31 @@ STR_1101    :Departing {POP16}{STRINGID}
 STR_1102    :Traveling at {VELOCITY}
 STR_1103    :Arriving at {POP16}{STRINGID}
 STR_1104    :Unloading passengers at {POP16}{STRINGID}
-STR_1105    :Traveling at {VELOCITY}
-STR_1106    :Crashing!
-STR_1107    :Crashed!
-STR_1108    :Traveling at {VELOCITY}
-STR_1109    :Swinging
-STR_1110    :Rotating
-STR_1111    :Rotating
+STR_1105    :Pohybuje sa rýchlosťou {VELOCITY}
+STR_1106    :Havaruje!
+STR_1107    :Havarovala!
+STR_1108    :Pohybuje sa rýchlosťou {VELOCITY}
+STR_1109    :Hojdá sa
+STR_1110    :Rotuje
+STR_1111    :Rotuje
 STR_1112    :Operating
-STR_1113    :Showing film
-STR_1114    :Rotating
+STR_1113    :Hrá film
+STR_1114    :Rotuje
 STR_1115    :Operating
 STR_1116    :Operating
-STR_1117    :Doing circus show
+STR_1117    :Prebieha cirkusová šou
 STR_1118    :Operating
 STR_1119    :Waiting for cable lift
 STR_1120    :Traveling at {VELOCITY}
-STR_1121    :Stopping
+STR_1121    :Zastavuje
 STR_1122    :Waiting for passengers
 STR_1123    :Waiting to start
-STR_1124    :Starting
+STR_1124    :Štartuje
 STR_1125    :Operating
-STR_1126    :Stopping
+STR_1126    :Zastavuje
 STR_1127    :Unloading passengers
 STR_1128    :Stopped by block brakes
-STR_1129    :All vehicles in same colors
+STR_1129    :Všetky vozidlá v rovnakej farbe
 STR_1130    :Different colors per {STRINGID}
 STR_1131    :Different colors per vehicle
 STR_1132    :Vehicle {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
@@ -1001,7 +1001,7 @@ STR_1167    :Can't raise water level here...
 STR_1168    :Možnosti
 STR_1169    :(None)
 STR_1170    :{STRING}
-STR_1171    :{RED}Closed - - 
+STR_1171    :{RED}Zatvorené - - 
 STR_1172    :{YELLOW}{STRINGID} - - 
 STR_1173    :{SMALLFONT}{BLACK}Build footpaths and queue lines
 STR_1174    :Banner sign in the way
@@ -1010,17 +1010,17 @@ STR_1176    :Can't build footpath here...
 STR_1177    :Can't remove footpath from here...
 STR_1178    :Land slope unsuitable
 STR_1179    :Footpath in the way
-STR_1180    :Can't build this underwater!
+STR_1180    :Nemožno postaviť pod vodou!
 STR_1181    :Chodníky
 STR_1182    :Typ
 STR_1183    :Smer
 STR_1184    :Sklon
 STR_1185    :{SMALLFONT}{BLACK}Smer
-STR_1186    :{SMALLFONT}{BLACK}Slope down
+STR_1186    :{SMALLFONT}{BLACK}Sklon dole
 STR_1187    :{SMALLFONT}{BLACK}Úroveň
-STR_1188    :{SMALLFONT}{BLACK}Slope up
-STR_1189    :{SMALLFONT}{BLACK}Construct the selected footpath section
-STR_1190    :{SMALLFONT}{BLACK}Remove previous footpath section
+STR_1188    :{SMALLFONT}{BLACK}Sklon hore
+STR_1189    :{SMALLFONT}{BLACK}Postaviť ďalšiu sekciu
+STR_1190    :{SMALLFONT}{BLACK}Odstrániť predchádzajúcu sekciu
 STR_1191    :{BLACK}{STRINGID}
 STR_1192    :{OUTLINE}{RED}{STRINGID}
 STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
@@ -1031,12 +1031,12 @@ STR_1197    :Atrakcia pokazená
 STR_1198    :Atrakcia havarovala!
 STR_1199    :{COMMA16} osoba na atrakcii
 STR_1200    :{COMMA16} osôb na atrakcii
-STR_1201    :Nobody in queue line
-STR_1202    :1 person in queue line
-STR_1203    :{COMMA16} people in queue line
+STR_1201    :Nikto nečaká
+STR_1202    :Čaká 1 osoba
+STR_1203    :Čaká {COMMA16} osôb
 STR_1204    :Doba čakania: {COMMA16} minúta
 STR_1205    :Doba čakania: {COMMA16} minút
-STR_1206    :{WINDOW_COLOUR_2}Wait for:
+STR_1206    :{WINDOW_COLOUR_2}Čaká na atrakciu:
 STR_1207    :{WINDOW_COLOUR_2}Leave if another train arrives at station
 STR_1208    :{WINDOW_COLOUR_2}Leave if another boat arrives at station
 STR_1209    :{SMALLFONT}{BLACK}Select whether should wait for passengers before departing
@@ -1052,13 +1052,13 @@ STR_1218    :{BLACK}{SMALLUP}
 STR_1219    :{BLACK}{SMALLDOWN}
 STR_1220    :Iba východ
 STR_1221    :Nevstupovať
-STR_1222    :No exit
-STR_1223    :{SMALLFONT}{BLACK}Transport rides
-STR_1224    :{SMALLFONT}{BLACK}Gentle rides
-STR_1225    :{SMALLFONT}{BLACK}Roller coasters
-STR_1226    :{SMALLFONT}{BLACK}Thrill rides
-STR_1227    :{SMALLFONT}{BLACK}Water rides
-STR_1228    :{SMALLFONT}{BLACK}Shops & stalls
+STR_1222    :Iba vchod
+STR_1223    :{SMALLFONT}{BLACK}Transportné atrakcie
+STR_1224    :{SMALLFONT}{BLACK}Mierne atrakcie
+STR_1225    :{SMALLFONT}{BLACK}Horské dráhy
+STR_1226    :{SMALLFONT}{BLACK}Vzrušujúce atrakcie
+STR_1227    :{SMALLFONT}{BLACK}Vodné atrakcie
+STR_1228    :{SMALLFONT}{BLACK}Obchody a stánky
 STR_1229    :vlak
 STR_1230    :vlaky
 STR_1231    :Vlak
@@ -1073,12 +1073,12 @@ STR_1239    :Lode
 STR_1240    :{COMMA16} loď
 STR_1241    :{COMMA16} lode
 STR_1242    :Loď {COMMA16}
-STR_1243    :track
-STR_1244    :tracks
-STR_1245    :Track
-STR_1246    :Tracks
-STR_1247    :{COMMA16} track
-STR_1248    :{COMMA16} tracks
+STR_1243    :trať
+STR_1244    :trate
+STR_1245    :Trať
+STR_1246    :Trate
+STR_1247    :{COMMA16} trať
+STR_1248    :{COMMA16} trate
 STR_1249    :Track {COMMA16}
 STR_1250    :docking platform
 STR_1251    :docking platforms
@@ -1094,20 +1094,20 @@ STR_1260    :Stanice
 STR_1261    :{COMMA16} stanica
 STR_1262    :{COMMA16} stanice
 STR_1263    :Stanica {COMMA16}
-STR_1264    :car
-STR_1265    :cars
-STR_1266    :Car
-STR_1267    :Cars
-STR_1268    :{COMMA16} car
-STR_1269    :{COMMA16} cars
-STR_1270    :Car {COMMA16}
-STR_1271    :building
-STR_1272    :buildings
-STR_1273    :Building
-STR_1274    :Buildings
-STR_1275    :{COMMA16} building
-STR_1276    :{COMMA16} buildings
-STR_1277    :Building {COMMA16}
+STR_1264    :auto
+STR_1265    :autá
+STR_1266    :Auto
+STR_1267    :Autá
+STR_1268    :{COMMA16} auto
+STR_1269    :{COMMA16} autá
+STR_1270    :Auto {COMMA16}
+STR_1271    :budova
+STR_1272    :budovy
+STR_1273    :Budova
+STR_1274    :Budovy
+STR_1275    :{COMMA16} budova
+STR_1276    :{COMMA16} budovy
+STR_1277    :Budova {COMMA16}
 STR_1278    :structure
 STR_1279    :structures
 STR_1280    :Structure
@@ -1115,13 +1115,13 @@ STR_1281    :Structures
 STR_1282    :{COMMA16} structure
 STR_1283    :{COMMA16} structures
 STR_1284    :Structure {COMMA16}
-STR_1285    :ship
-STR_1286    :ships
-STR_1287    :Ship
-STR_1288    :Ships
-STR_1289    :{COMMA16} ship
-STR_1290    :{COMMA16} ships
-STR_1291    :Ship {COMMA16}
+STR_1285    :loď
+STR_1286    :lode
+STR_1287    :Loď
+STR_1288    :Lode
+STR_1289    :{COMMA16} loď
+STR_1290    :{COMMA16} lode
+STR_1291    :Loď {COMMA16}
 STR_1292    :cabin
 STR_1293    :cabins
 STR_1294    :Cabin
@@ -1169,7 +1169,7 @@ STR_1335    :{STRINGID} - Entrance{POP16}{POP16}
 STR_1336    :{STRINGID} - Station {POP16}{COMMA16} Entrance
 STR_1337    :{STRINGID} - Exit{POP16}{POP16}
 STR_1338    :{STRINGID} - Station {POP16}{COMMA16} Exit
-STR_1339    :{BLACK}No test results yet...
+STR_1339    :{BLACK}Výsledky testu zatiaľ nedostupné...
 STR_1340    :{WINDOW_COLOUR_2}Max. rýchlosť: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Čas trvania atrakcie: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
@@ -1184,9 +1184,9 @@ STR_1350    :{WINDOW_COLOUR_2}Max. negative vertical G's: {BLACK}{COMMA2DP32}g
 STR_1351    :{WINDOW_COLOUR_2}Max. negative vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
 STR_1352    :{WINDOW_COLOUR_2}Max. lateral G's: {BLACK}{COMMA2DP32}g
 STR_1353    :{WINDOW_COLOUR_2}Max. lateral G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1354    :{WINDOW_COLOUR_2}Highest drop height: {BLACK}{LENGTH}
-STR_1355    :{WINDOW_COLOUR_2}Drops: {BLACK}{COMMA16}
-STR_1356    :{WINDOW_COLOUR_2}Inversions: {BLACK}{COMMA16}
+STR_1354    :{WINDOW_COLOUR_2}Najvyšší bod: {BLACK}{LENGTH}
+STR_1355    :{WINDOW_COLOUR_2}Spády: {BLACK}{COMMA16}
+STR_1356    :{WINDOW_COLOUR_2}Inverzie: {BLACK}{COMMA16}
 STR_1357    :{WINDOW_COLOUR_2}Jamiek: {BLACK}{COMMA16}
 STR_1358    :{WINDOW_COLOUR_2}Total 'air' time: {BLACK}{COMMA2DP32}secs
 STR_1359    :{WINDOW_COLOUR_2}Doba čakania: {BLACK}{COMMA16} minute
@@ -1216,7 +1216,7 @@ STR_1382    :Curved Lift Hill (right)
 STR_1383    :Quarter Loop
 STR_1384    :{YELLOW}{STRINGID}
 STR_1385    :{SMALLFONT}{BLACK}Other track configurations
-STR_1386    :Special...
+STR_1386    :Špeciálne...
 STR_1387    :Can't change land type...
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
@@ -1228,8 +1228,8 @@ STR_1394    :{SMALLFONT}{BLACK}Operating options
 STR_1395    :{SMALLFONT}{BLACK}Maintenance options
 STR_1396    :{SMALLFONT}{BLACK}Color scheme options
 STR_1397    :{SMALLFONT}{BLACK}Sound & music options
-STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
-STR_1399    :{SMALLFONT}{BLACK}Graphs
+STR_1398    :{SMALLFONT}{BLACK}MMerania a testovacie dáta
+STR_1399    :{SMALLFONT}{BLACK}Grafy
 STR_1400    :Vchod
 STR_1401    :Východ
 STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
@@ -1241,12 +1241,12 @@ STR_1407    :{WINDOW_COLOUR_2}Build this...
 STR_1408    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY}
 STR_1409    :Entry/Exit Platform
 STR_1410    :Vertical Tower
-STR_1411    :{STRINGID} in the way
+STR_1411    :Atrakcia {STRINGID} v ceste
 STR_1412    :{WINDOW_COLOUR_3}Data logging not available for this type of ride
 STR_1413    :{WINDOW_COLOUR_3}Data logging will start when next {STRINGID} leaves {STRINGID}
 STR_1414    :{SMALLFONT}{BLACK}{DURATION}
-STR_1415    :{WINDOW_COLOUR_2}Velocity
-STR_1416    :{WINDOW_COLOUR_2}Altitude
+STR_1415    :{WINDOW_COLOUR_2}Rýchlosť
+STR_1416    :{WINDOW_COLOUR_2}Výška
 STR_1417    :{WINDOW_COLOUR_2}Vert.G's
 STR_1418    :{WINDOW_COLOUR_2}Lat.G's
 STR_1419    :{SMALLFONT}{BLACK}{VELOCITY}
@@ -1260,21 +1260,21 @@ STR_1426    :Queue Line
 STR_1427    :{WINDOW_COLOUR_2}Customers: {BLACK}{COMMA32} per hour
 STR_1428    :{WINDOW_COLOUR_2}Admission price:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
-STR_1430    :Free
+STR_1430    :Zadarmo
 STR_1431    :Kráča
 STR_1432    :Ide na {STRINGID}
 STR_1433    :Čaká na {STRINGID}
 STR_1434    :Topí sa
-STR_1435    :On {STRINGID}
-STR_1436    :In {STRINGID}
-STR_1437    :At {STRINGID}
+STR_1435    :Na Atrakcii {STRINGID}
+STR_1436    :Na atrakcii {STRINGID}
+STR_1437    :Na atrakcii {STRINGID}
 STR_1438    :Sedí na lavičke
-STR_1439    :(select location)
+STR_1439    :(zvoľ lokáciu)
 STR_1440    :Kosí trávu
 STR_1441    :Zametá chodník
 STR_1442    :Vyprázdňuje kôš
 STR_1443    :Polieva kvety
-STR_1444    :Poserá sa na {STRINGID}
+STR_1444    :Pozerá sa na {STRINGID}
 STR_1445    :Sleduje stavbu atrakcie: {STRINGID}
 STR_1446    :Obdivuje scenériu
 STR_1447    :Opúšťa park
@@ -1283,12 +1283,12 @@ STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
 STR_1452    :Meno návštevníka
-STR_1453    :Enter name for this guest:
+STR_1453    :Zadaj meno návštevníka:
 STR_1454    :Can't name guest...
-STR_1455    :Invalid name for guest
-STR_1456    :{WINDOW_COLOUR_2}Cash spent: {BLACK}{CURRENCY2DP}
-STR_1457    :{WINDOW_COLOUR_2}Cash in pocket: {BLACK}{CURRENCY2DP}
-STR_1458    :{WINDOW_COLOUR_2}Time in park: {BLACK}{REALTIME}
+STR_1455    :Neplatné meno návštevníka
+STR_1456    :{WINDOW_COLOUR_2}Utratil: {BLACK}{CURRENCY2DP}
+STR_1457    :{WINDOW_COLOUR_2}Má v peňaženke: {BLACK}{CURRENCY2DP}
+STR_1458    :{WINDOW_COLOUR_2}Strávil v parku: {BLACK}{REALTIME}
 STR_1459    :Track style
 STR_1460    :{SMALLFONT}{BLACK}'U' shaped open track
 STR_1461    :{SMALLFONT}{BLACK}'O' shaped enclosed track
@@ -1300,8 +1300,8 @@ STR_1466    :Helix down (small)
 STR_1467    :Helix down (large)
 STR_1468    :Zamestnanci
 STR_1469    :Ride must start and end with stations
-STR_1470    :Station not long enough
-STR_1471    :{WINDOW_COLOUR_2}Speed:
+STR_1470    :Stanica nie je dostatočne dlhá
+STR_1471    :{WINDOW_COLOUR_2}Rýchlosť:
 STR_1472    :{SMALLFONT}{BLACK}Speed of this ride
 STR_1473    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1474    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}Not yet available
@@ -1311,9 +1311,9 @@ STR_1477    :{WINDOW_COLOUR_2}Intensity rating: {OUTLINE}{RED}{COMMA2DP32}  ({ST
 STR_1478    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1479    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}Not yet available
 STR_1480    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1481    :{SMALLFONT}{OPENQUOTES}I've spent all my money{ENDQUOTES}
-STR_1482    :{SMALLFONT}{OPENQUOTES}I feel sick{ENDQUOTES}
-STR_1483    :{SMALLFONT}{OPENQUOTES}I feel very sick{ENDQUOTES}
+STR_1481    :{SMALLFONT}{OPENQUOTES}Minul som všetky svoje peniaze{ENDQUOTES}
+STR_1482    :{SMALLFONT}{OPENQUOTES}Je mi zle{ENDQUOTES}
+STR_1483    :{SMALLFONT}{OPENQUOTES}Je mi veľmi zle{ENDQUOTES}
 STR_1484    :{SMALLFONT}{OPENQUOTES}I want to go on something more thrilling than {STRINGID}{ENDQUOTES}
 STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} looks too intense for me{ENDQUOTES}
 STR_1486    :{SMALLFONT}{OPENQUOTES}I haven't finished my {STRINGID} yet{ENDQUOTES}
@@ -1321,33 +1321,33 @@ STR_1487    :{SMALLFONT}{OPENQUOTES}Just looking at {STRINGID} makes me feel sic
 STR_1488    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to go on {STRINGID}{ENDQUOTES}
 STR_1489    :{SMALLFONT}{OPENQUOTES}I want to go home{ENDQUOTES}
 STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} is really good value{ENDQUOTES}
-STR_1491    :{SMALLFONT}{OPENQUOTES}I've already got {STRINGID}{ENDQUOTES}
-STR_1492    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1493    :{SMALLFONT}{OPENQUOTES}I'm not hungry{ENDQUOTES}
-STR_1494    :{SMALLFONT}{OPENQUOTES}I'm not thirsty{ENDQUOTES}
-STR_1495    :{SMALLFONT}{OPENQUOTES}Help! I'm drowning!{ENDQUOTES}
-STR_1496    :{SMALLFONT}{OPENQUOTES}I'm lost!{ENDQUOTES}
-STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} was great{ENDQUOTES}
+STR_1491    :{SMALLFONT}{OPENQUOTES}Už som si kúpil {STRINGID}{ENDQUOTES}
+STR_1492    :{SMALLFONT}{OPENQUOTES}{STRINGID} si nemôžem dovoliť{ENDQUOTES}
+STR_1493    :{SMALLFONT}{OPENQUOTES}Nie som hladný{ENDQUOTES}
+STR_1494    :{SMALLFONT}{OPENQUOTES}Nie som smädný{ENDQUOTES}
+STR_1495    :{SMALLFONT}{OPENQUOTES}Pomoc! Topím sa!{ENDQUOTES}
+STR_1496    :{SMALLFONT}{OPENQUOTES}Stratil som sa!{ENDQUOTES}
+STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} bola úžasná atrakcia{ENDQUOTES}
 STR_1498    :{SMALLFONT}{OPENQUOTES}I've been queuing for {STRINGID} for ages{ENDQUOTES}
-STR_1499    :{SMALLFONT}{OPENQUOTES}I'm tired{ENDQUOTES}
-STR_1500    :{SMALLFONT}{OPENQUOTES}I'm hungry{ENDQUOTES}
-STR_1501    :{SMALLFONT}{OPENQUOTES}I'm thirsty{ENDQUOTES}
-STR_1502    :{SMALLFONT}{OPENQUOTES}I need to go to the bathroom{ENDQUOTES}
-STR_1503    :{SMALLFONT}{OPENQUOTES}I can't find {STRINGID}{ENDQUOTES}
+STR_1499    :{SMALLFONT}{OPENQUOTES}Som unavený{ENDQUOTES}
+STR_1500    :{SMALLFONT}{OPENQUOTES}Som hladný{ENDQUOTES}
+STR_1501    :{SMALLFONT}{OPENQUOTES}Som smädný{ENDQUOTES}
+STR_1502    :{SMALLFONT}{OPENQUOTES}Potrebujem ísť na toaletu{ENDQUOTES}
+STR_1503    :{SMALLFONT}{OPENQUOTES}Nemôžem nájsť atrakciu {STRINGID}{ENDQUOTES}
 STR_1504    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to use {STRINGID}{ENDQUOTES}
 STR_1505    :{SMALLFONT}{OPENQUOTES}I'm not going on {STRINGID} while it's raining{ENDQUOTES}
 STR_1506    :{SMALLFONT}{OPENQUOTES}The litter here is really bad{ENDQUOTES}
 STR_1507    :{SMALLFONT}{OPENQUOTES}I can't find the park exit{ENDQUOTES}
-STR_1508    :{SMALLFONT}{OPENQUOTES}I want to get off {STRINGID}{ENDQUOTES}
+STR_1508    :{SMALLFONT}{OPENQUOTES}Chcem vystúpiť z atrakcie {STRINGID}{ENDQUOTES}
 STR_1509    :{SMALLFONT}{OPENQUOTES}I want to get out of {STRINGID}{ENDQUOTES}
-STR_1510    :{SMALLFONT}{OPENQUOTES}I'm not going on {STRINGID} - It isn't safe{ENDQUOTES}
-STR_1511    :{SMALLFONT}{OPENQUOTES}This path is disgusting{ENDQUOTES}
+STR_1510    :{SMALLFONT}{OPENQUOTES}Atrakcia {STRINGID} nie je bezpečná - na tú ma nikto nedostane{ENDQUOTES}
+STR_1511    :{SMALLFONT}{OPENQUOTES}Tento chodník je odporný{ENDQUOTES}
 STR_1512    :{SMALLFONT}{OPENQUOTES}It's too crowded here{ENDQUOTES}
 STR_1513    :{SMALLFONT}{OPENQUOTES}The vandalism here is really bad{ENDQUOTES}
 STR_1514    :{SMALLFONT}{OPENQUOTES}Great scenery!{ENDQUOTES}
-STR_1515    :{SMALLFONT}{OPENQUOTES}This park is really clean and tidy{ENDQUOTES}
+STR_1515    :{SMALLFONT}{OPENQUOTES}Tento park je prekvapivo čistý{ENDQUOTES}
 STR_1516    :{SMALLFONT}{OPENQUOTES}The jumping fountains are great{ENDQUOTES}
-STR_1517    :{SMALLFONT}{OPENQUOTES}The music is nice here{ENDQUOTES}
+STR_1517    :{SMALLFONT}{OPENQUOTES}Páči sa mi tu hudba{ENDQUOTES}
 STR_1518    :{SMALLFONT}{OPENQUOTES}This balloon from {STRINGID} is really good value{ENDQUOTES}
 STR_1519    :{SMALLFONT}{OPENQUOTES}This cuddly toy from {STRINGID} is really good value{ENDQUOTES}
 STR_1520    :{SMALLFONT}{OPENQUOTES}This park map from {STRINGID} is really good value{ENDQUOTES}
@@ -1478,9 +1478,9 @@ STR_1644    :
 STR_1645    :
 STR_1646    :
 STR_1647    :
-STR_1648    :{SMALLFONT}{OPENQUOTES}Help! Put me down!{ENDQUOTES}
-STR_1649    :{SMALLFONT}{OPENQUOTES}I'm running out of cash!{ENDQUOTES}
-STR_1650    :{SMALLFONT}{OPENQUOTES}Wow! A new ride being built!{ENDQUOTES}
+STR_1648    :{SMALLFONT}{OPENQUOTES}Pomoc! Vráť ma na zem!{ENDQUOTES}
+STR_1649    :{SMALLFONT}{OPENQUOTES}Dochádzajú mi peniaze!{ENDQUOTES}
+STR_1650    :{SMALLFONT}{OPENQUOTES}Wow! práve sa stavia nová atrakcia!{ENDQUOTES}
 # Two removed inside jokes about Intamin and Phoenix
 STR_1651    :<removed string - do not use>
 STR_1652    :<removed string - do not use>
@@ -1493,14 +1493,14 @@ STR_1658    :{WINDOW_COLOUR_2}intensity: {BLACK}less than {COMMA16}
 STR_1659    :{WINDOW_COLOUR_2}intensity: {BLACK}between {COMMA16} and {COMMA16}
 STR_1660    :{WINDOW_COLOUR_2}intensity: {BLACK}more than {COMMA16}
 STR_1661    :{WINDOW_COLOUR_2}Nausea tolerance: {BLACK}{STRINGID}
-STR_1662    :{WINDOW_COLOUR_2}Happiness:
+STR_1662    :{WINDOW_COLOUR_2}Šťastie:
 STR_1663    :{WINDOW_COLOUR_2}Nausea:
-STR_1664    :{WINDOW_COLOUR_2}Energy:
-STR_1665    :{WINDOW_COLOUR_2}Hunger:
-STR_1666    :{WINDOW_COLOUR_2}Thirst:
-STR_1667    :{WINDOW_COLOUR_2}Bathroom:
-STR_1668    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}Unknown
-STR_1669    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}{COMMA16}%
+STR_1664    :{WINDOW_COLOUR_2}Energia:
+STR_1665    :{WINDOW_COLOUR_2}Hlad:
+STR_1666    :{WINDOW_COLOUR_2}Smäd:
+STR_1667    :{WINDOW_COLOUR_2}Toaleta:
+STR_1668    :{WINDOW_COLOUR_2}Spokojnosť: {BLACK}neznáma
+STR_1669    :{WINDOW_COLOUR_2}Spokojnosť: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Total customers: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}Total profit: {BLACK}{CURRENCY2DP}
 STR_1672    :Brzdy
@@ -1508,8 +1508,8 @@ STR_1673    :Spinning Control Toggle Track
 STR_1674    :Brake speed
 STR_1675    :{POP16}{VELOCITY}
 STR_1676    :{SMALLFONT}{BLACK}Set speed limit for brakes
-STR_1677    :{WINDOW_COLOUR_2}Popularity: {BLACK}Unknown
-STR_1678    :{WINDOW_COLOUR_2}Popularity: {BLACK}{COMMA16}%
+STR_1677    :{WINDOW_COLOUR_2}Popularita: {BLACK}neznáma
+STR_1678    :{WINDOW_COLOUR_2}Popularita: {BLACK}{COMMA16}%
 STR_1679    :Helix up (left)
 STR_1680    :Helix up (right)
 STR_1681    :Helix down (left)
@@ -1524,9 +1524,9 @@ STR_1689    :Block brakes
 STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
 STR_1691    :{WINDOW_COLOUR_2}  Cost: {BLACK}{CURRENCY}
 STR_1692    :{WINDOW_COLOUR_2}  Cost: {BLACK}from {CURRENCY}
-STR_1693    :{SMALLFONT}{BLACK}Guests
-STR_1694    :{SMALLFONT}{BLACK}Staff
-STR_1695    :{SMALLFONT}{BLACK}Income and costs
+STR_1693    :{SMALLFONT}{BLACK}Návštevníci
+STR_1694    :{SMALLFONT}{BLACK}Zamestnanci
+STR_1695    :{SMALLFONT}{BLACK}Príjmy a výdavky
 STR_1696    :{SMALLFONT}{BLACK}Customer information
 STR_1697    :Cannot place these on queue line area
 STR_1698    :Can only place these on queue area
@@ -1540,7 +1540,7 @@ STR_1705    :{SMALLFONT}{BLACK}Sack this staff member
 STR_1706    :{SMALLFONT}{BLACK}Move this person to a new location
 STR_1707    :Too many staff in game
 STR_1708    :{SMALLFONT}{BLACK}Set patrol area for this staff member
-STR_1709    :Sack staff
+STR_1709    :Vyhodiť zamestnanca
 STR_1710    :Áno
 STR_1711    :{WINDOW_COLOUR_1}Are you sure you want to sack {STRINGID}?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Sweep footpaths
